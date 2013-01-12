@@ -9,5 +9,10 @@
     "stylus",
     "nib"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "files": [
+    "package.json",
+    "index.js",
+    "lib/stylus.js"
+  ]
 }
