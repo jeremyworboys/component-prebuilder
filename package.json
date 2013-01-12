@@ -1,0 +1,11 @@
+{
+  "name": "builder",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "component-builder": "~0.6.2",
+    "nib": "~0.9.1",
+    "stylus": "~0.32.0",
+    "canvas": "~0.13.1"
+  }
+}
