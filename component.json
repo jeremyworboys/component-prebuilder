@@ -1,0 +1,16 @@
+{
+  "name": "builder",
+  "repo": "jeremyworboys/builder",
+  "description": "A component builder that handles various preprocesors",
+  "version": "0.0.1",
+  "keywords": [
+    "builder",
+    "preprocess",
+    "stylus",
+    "nib"
+  ],
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
