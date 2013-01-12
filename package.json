@@ -4,7 +4,7 @@
   "description": "A Component builder that handles various preprocessors.",
   "version": "0.1.0",
   "repository": {
-    "url": "http://github.com/jeremyworboys/component-prebuilder"
+    "url": "https://github.com/jeremyworboys/component-prebuilder"
   },
   "main": "./lib/index",
   "bin": {
@@ -15,5 +15,12 @@
     "nib": "~0.9.1",
     "stylus": "~0.32.0",
     "canvas": "~0.13.1"
-  }
+  },
+  "keywords": [
+    "component",
+    "build",
+    "preprocess",
+    "stylus",
+    "nib"
+  ]
 }
