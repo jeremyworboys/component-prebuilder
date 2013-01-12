@@ -9,8 +9,5 @@
     "stylus",
     "nib"
   ],
-  "license": "MIT",
-  "scripts": [
-    "index.js"
-  ]
+  "license": "MIT"
 }

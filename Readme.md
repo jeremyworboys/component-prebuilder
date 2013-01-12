@@ -1,5 +1,5 @@
 
-# builder
+# Builder
 
   A component builder that handles various preprocesors
 
@@ -9,7 +9,7 @@
 
 ## API
 
-   
+
 
 ## License
 
