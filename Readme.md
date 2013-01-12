@@ -1,7 +1,7 @@
 
 # Builder
 
-  A (Component)[http://github.com/component/component] builder that handles various preprocessors.
+  A [Component](http://github.com/component/component) builder that handles various preprocessors.
 
 ## Installation
 
@@ -16,6 +16,10 @@
   To compile component run:
 
     $ make build
+
+## Supported Preprocessors
+
+  * Stylus (with nib)
 
 ## License
 
