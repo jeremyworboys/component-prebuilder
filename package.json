@@ -16,6 +16,8 @@
     "stylus": "~0.32.0",
     "canvas": "~0.13.1",
     "coffee-script": "~1.4.0",
+    "mkdirp": "~0.3.4",
+    "commander": "~1.1.1"
   },
   "keywords": [
     "component",
