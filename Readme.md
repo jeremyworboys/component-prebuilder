@@ -1,7 +1,7 @@
 
 # Builder
 
-  A component builder that handles various preprocesors
+  A component builder that handles various preprocessors
 
 ## Installation
 
