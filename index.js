@@ -4,8 +4,8 @@
  */
 
 var Builder = require('component-builder'),
-    templates = require('./templates'),
-    stylus = require('./stylus'),
+    // templates = require('./lib/templates'),
+    stylus = require('./lib/stylus'),
     fs = require('fs'),
     write = fs.writeFileSync;
 
@@ -15,7 +15,7 @@ var Builder = require('component-builder'),
 var builder = new Builder('.');
 builder.copyAssetsTo('build');
 builder.use(stylus);
-builder.use(templates);
+// builder.use(templates);
 builder.build(function(err, res){
     console.log(err);
     if (err) return err;
