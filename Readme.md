@@ -1,15 +1,21 @@
 
 # Builder
 
-  A component builder that handles various preprocessors
+  A (Component)[http://github.com/component/component] builder that handles various preprocessors.
 
 ## Installation
 
-    $ component install jeremyworboys/builder
+    $ npm install -g component-prebuilder
 
-## API
+## Usage
 
+  Change the `build` task in your Makefile to:
 
+    @component-prebuilder
+
+  To compile component run:
+
+    $ make build
 
 ## License
 
