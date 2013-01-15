@@ -20,6 +20,7 @@
 ## Supported Preprocessors
 
   * Stylus (with nib)
+  * Coffee-script
 
 ## License
 

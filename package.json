@@ -2,7 +2,7 @@
   "author": "Jeremy Worboys",
   "name": "component-prebuilder",
   "description": "A Component builder that handles various preprocessors.",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "repository": {
     "url": "https://github.com/jeremyworboys/component-prebuilder"
   },
@@ -24,6 +24,7 @@
     "build",
     "preprocess",
     "stylus",
-    "nib"
+    "nib",
+    "coffee-script"
   ]
 }
